@@ -1,5 +1,5 @@
-// Submitter1: Yonatan Rubin, 648831051
-// Submitter2: name2, 313751927
+// Submitter1: Yonatan Rubin, student ID
+// Submitter2: name2, student ID
 // I couldn't find a partner :/
 #include "FileSystem.h"
 #include <fstream>
