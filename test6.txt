@@ -1,0 +1,26 @@
+atd
+dir1
+arf
+dir1
+file1.txt
+app
+file1.txt
+File1 content.
+atd
+dir2
+arf
+dir2
+file2.txt
+ard
+dir2
+dir3
+arf
+dir3
+file3.txt
+app
+file2.txt
+File2 content.
+app
+file3.txt
+File3 content.
+ps

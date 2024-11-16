@@ -1,0 +1,21 @@
+atd
+dir1
+arf
+dir1
+file1.txt
+ard
+dir1
+subdir1
+arf
+subdir1
+file2.txt
+app
+file1.txt
+First content.
+app
+file2.txt
+Second content.
+arf
+non_existing_dir
+file3.txt
+ps

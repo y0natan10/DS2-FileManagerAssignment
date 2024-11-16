@@ -1,0 +1,9 @@
+atd
+dir1
+arf
+dir1
+file1.txt
+app
+file1.txt
+Content for file1.
+ps
